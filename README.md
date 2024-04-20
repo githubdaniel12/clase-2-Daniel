@@ -8,6 +8,12 @@ creación de repositorios y el manejo de Mark Down
 
 -version dos;
 
+-codigo:
+
+def hola_mundo():
+    print("Hola, mundo!")
+
+
 referencias:
 
 [Google](https://www.google.com)
