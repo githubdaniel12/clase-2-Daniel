@@ -2,5 +2,6 @@
 ## Titulo dos
 ### Titulo dos
 creación de repositorios y el manejo de Mark Down
--version uno 
--version dos
+-version uno;
+-version dos;
+#### daniel josa
