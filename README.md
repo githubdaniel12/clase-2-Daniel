@@ -20,6 +20,7 @@ referencias:
 [Google](https://www.google.com)
 
 ## Tablas
+
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 |--------------|--------------|--------------|
 | Texto 1      | Texto 2      | Texto 3      |
@@ -28,6 +29,6 @@ referencias:
 ## Imágenes
 
 <p align="center">
-<img src="./logos/logo.jpeg" height="100">
+<img src="./logos/logo.jpg" height="100">
 </p>
 
