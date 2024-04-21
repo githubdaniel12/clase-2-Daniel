@@ -11,6 +11,9 @@ creación de repositorios y el manejo de Mark Down
 codigo:
 
 
+```python
+def hola_mundo():
+    print("Hola, mundo!")
 
 referencias:
 
