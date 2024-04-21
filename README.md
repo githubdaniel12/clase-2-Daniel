@@ -29,6 +29,6 @@ referencias:
 ## Imágenes
 
 <p align="center">
-<img src="./logos/logo.jpg" height="100">
+<img src="/logos/logo.jpg" height="100">
 </p>
 
