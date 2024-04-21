@@ -29,6 +29,6 @@ referencias:
 ## Imágenes
 
 <p align="center">
-<img src="./logos/logojpg" height="100">
+<img src="./logos/logo.jpg" height="C:\Users\labinf1.pasto\Downloads\logos\logo.jpg">
 </p>
 
